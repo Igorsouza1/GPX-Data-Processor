@@ -25,13 +25,10 @@ Além disso, os waypoints podem ser exportados para um único arquivo XLSX ou ar
 - `google.colab` para upload e download de arquivos
 
 ## 📥 Como Usar
-1. **Faça o upload** dos arquivos GPX no Google Colab.
-2. O código **corrige** eventuais problemas de formatação.
-3. Para cada arquivo, são exibidas informações de distância, tempo e waypoints.
-4. Se existirem waypoints, o usuário escolhe entre exportar:
-   - 📁 **Um único arquivo XLSX**
-   - 📂 **Arquivos separados por nome do GPX**
-5. O resumo final é exibido com todos os dados consolidados.
+1. Faça a cópia do código no colab
+2. Instale gpxpy geopy
+3. Execute o código
+4. Escolha os arquivos
 
 ## 📌 Exemplo de Saída
 ```plaintext
