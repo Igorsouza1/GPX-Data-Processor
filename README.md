@@ -30,6 +30,8 @@ Além disso, os waypoints podem ser exportados para um único arquivo XLSX ou ar
 3. Execute o código
 4. Escolha os arquivos
 
+Teste: https://colab.research.google.com/drive/1VzDt65irtzMp1q_-p5ocTamf89SkGphW#scrollTo=s3CbdGhDCQo8
+
 ## 📌 Exemplo de Saída
 ```plaintext
 ==================================================
