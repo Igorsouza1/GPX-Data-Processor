@@ -1,6 +1,6 @@
 # GPX-Data-Processor
 
-📌 Descrição
+## Descrição
 
 Este projeto permite processar arquivos GPX para extrair informações essenciais, como:
 
@@ -14,7 +14,7 @@ Waypoints (latitude, longitude, elevação)
 
 Além disso, os waypoints podem ser exportados para um único arquivo XLSX ou arquivos separados por nome de arquivo.
 
-🚀 Funcionalidades
+## Funcionalidades
 
 ✅ Suporte a múltiplos arquivos GPX simultaneamente
 ✅ Correção automática de coordenadas no formato incorreto (vírgulas substituídas por pontos)
@@ -23,7 +23,7 @@ Além disso, os waypoints podem ser exportados para um único arquivo XLSX ou ar
 ✅ Exportação de waypoints para arquivos Excel
 ✅ Mensagens de status detalhadas para cada arquivo
 
-🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Python 3
 
@@ -35,7 +35,7 @@ pandas para manipulação de dados
 
 google.colab para upload e download de arquivos
 
-📥 Como Usar
+## Como Usar
 
 Faça o upload dos arquivos GPX no Google Colab.
 
@@ -67,18 +67,18 @@ O resumo final é exibido com todos os dados consolidados.
 ⏳ Tempo total de atividade: 12 horas e 20 minutos
 ==================================================
 
-🔧 Requisitos
+## 🔧 Requisitos
 
 Google Colab
 
 Bibliotecas Python instaladas: gpxpy, geopy, pandas
 
-📌 Melhorias Futuras
+## 📌 Melhorias Futuras
 
 🔹 Suporte a visualização de trilhas no mapa
 🔹 Integração com APIs de mapas para análises geográficas
 🔹 Melhor otimização no tratamento de arquivos grandes
 
-📝 Licença
+### Licença
 
 Este projeto é open-source e está disponível sob a licença MIT.
